@@ -1,0 +1,2 @@
+# bidepo
+Hızlı ve kolay
